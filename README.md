@@ -45,7 +45,7 @@ export LD_LIBRARY_PATH=${FC_BUILD}/lib:$LD_LIBRARY_PATH
 export LIBRARY_PATH=${FC_BUILD}build/lib:$LIBRARY_PATH
 export CLANG_BINARY=${CLANG_701}/bin/clang
 
-10. ninja test to run eixsting tests.
+10. ninja test to run existing tests.
 
 ```
 
